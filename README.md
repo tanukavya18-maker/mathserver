@@ -152,9 +152,9 @@ def power(request):
     return render(request, 'math.html', {'power': power})
 
 ```
-# SERVER SIDE PROCESSING:
-<img width="961" height="486" alt="image" src="https://github.com/user-attachments/assets/e6d6d9da-8f1e-4d6c-a7b4-660184322535" />
 
 # HOMEPAGE:
+<img width="961" height="486" alt="image" src="https://github.com/user-attachments/assets/6acb5cf2-d5b1-4e09-8b03-5a240798df86" />
+
 # RESULT:
 The program for performing server side processing is completed successfully.
